@@ -1,0 +1,24 @@
+{
+    "HeroBehavior": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results/heroImitation/HeroBehavior/HeroBehavior-0.onnx",
+                "reward": null,
+                "creation_time": 1617545598.638667
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 0,
+            "file_path": "results/heroImitation/HeroBehavior.onnx",
+            "reward": null,
+            "creation_time": 1617545598.638667
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.0",
+        "tensorflow_version": -1
+    }
+}

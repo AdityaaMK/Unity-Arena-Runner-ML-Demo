@@ -1,0 +1,48 @@
+{
+    "HeroBehavior": {
+        "checkpoints": [
+            {
+                "steps": 499954,
+                "file_path": "results/heroImitation3Enems/HeroBehavior/HeroBehavior-499954.onnx",
+                "reward": 6681.600104437934,
+                "creation_time": 1617731539.685685
+            },
+            {
+                "steps": 500015,
+                "file_path": "results/heroImitation3Enems/HeroBehavior/HeroBehavior-500015.onnx",
+                "reward": 6681.845716502568,
+                "creation_time": 1617731539.770636
+            },
+            {
+                "steps": 999854,
+                "file_path": "results/heroImitation3Enems/HeroBehavior/HeroBehavior-999854.onnx",
+                "reward": 6647.561767578125,
+                "creation_time": 1617734429.01869
+            },
+            {
+                "steps": 1000489,
+                "file_path": "results/heroImitation3Enems/HeroBehavior/HeroBehavior-1000489.onnx",
+                "reward": 6503.571091672207,
+                "creation_time": 1617734429.131231
+            },
+            {
+                "steps": 1408269,
+                "file_path": "results/heroImitation3Enems/HeroBehavior/HeroBehavior-1408269.onnx",
+                "reward": 6702.243902251476,
+                "creation_time": 1617742064.608303
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1408269,
+            "file_path": "results/heroImitation3Enems/HeroBehavior.onnx",
+            "reward": 6702.243902251476,
+            "creation_time": 1617742064.608303
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.7.0",
+        "tensorflow_version": -1
+    }
+}
